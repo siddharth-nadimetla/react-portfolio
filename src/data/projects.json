@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Huffman Coding",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project designed to implement Huffman coding, efficiently compressing data by assigning variable-length codes based on symbol frequencies.",
+      "skills": ["C"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/siddharth-nadimetla/Huffman-code-generator"
+    },
+    {
+      "title": "Portfolio using ReactJS",
+      "imageSrc": "projects/project.png",
+      "description": "This is the portfolio webpage I made using ReactJS",
+      "skills": ["React", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project 3",
+      "imageSrc": "projects/project.png",
+      "description": "Information about Project-3 goes here",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

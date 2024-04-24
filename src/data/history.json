@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Student",
+      "organisation": "VIT Vellore",
+      "startDate": "Sept, 2022",
+      "endDate": "Present",
+      "experiences": ["Worked on a web-Minesweeper"],
+      "imageSrc": "history/vit.png"
+    },
+    {
+      "role": "Placeholeder",
+      "organisation": "Company",
+      "startDate": "Start",
+      "endDate": "End",
+      "experiences": ["Experience 1", "Experience 2"],
+      "imageSrc": "history/vit.png"
+    }
+  ]
