@@ -1,7 +1,7 @@
 {
   "homepage": "https://react-portfolio-phi-woad.vercel.app/",
   "name": "portfolio-react",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
